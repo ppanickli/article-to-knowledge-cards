@@ -1,0 +1,12 @@
+# macOS metadata
+.DS_Store
+._*
+
+# Local credentials
+.env
+.env.*
+
+# Temporary editor files
+*.tmp
+*.swp
+*~
